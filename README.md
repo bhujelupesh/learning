@@ -1,3 +1,4 @@
 # learning
-just to learn github<by>
-its about learning
+just to learn github<br>
+its about learning<br>
+author: Mr.Upesh Bhujel
